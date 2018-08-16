@@ -1,0 +1,30 @@
+{
+  "name": "e-shop-for-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blockchain-and-Beach/E-Shop-for-test.git"
+  },
+  "author": "logpacket naruteride",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blockchain-and-Beach/E-Shop-for-test/issues"
+  },
+  "homepage": "https://github.com/Blockchain-and-Beach/E-Shop-for-test#readme",
+  "dependencies": {
+    "compression": "^1.7.3",
+    "cookie-parser": "^1.4.3",
+    "debug": "^3.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "helmet": "^3.13.0",
+    "http-errors": "^1.7.0",
+    "morgan": "^1.9.0"
+  }
+}
